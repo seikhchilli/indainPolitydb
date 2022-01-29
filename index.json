@@ -60,10 +60,7 @@
                 {
                     "q" : [
                         "Match the following:",
-                        "<table><tr><td>(i)Act of Settlement</td><td>(I)1793</td><tr>",
-                        "<tr><td>(ii)1st charter Act</td><td>(II)1833</td></tr>",
-                        "<tr><td>(iii)St Helena Act</td><td>(III)1909</td></tr>",
-                        "<tr><td>(iv)Last Councils Act</td><td>(IV)1781</table></td></tr></table>"
+                        "<table><tr><td>(i)Act of Settlement</td><td>(I)1793</td><tr><tr><td>(ii)1st charter Act</td><td>(II)1833</td></tr><tr><td>(iii)St Helena Act</td><td>(III)1909</td></tr><tr><td>(iv)Last Councils Act</td><td>(IV)1781</table></td></tr></table>"
                     ],
                     "a" : "(i)->(IV), (ii)->(II), (iii)->(I), (iv)->(III)",
                     "b" : "(i)->(I), (ii)->(II), (iii)->(IV), (iv)->(III)",
@@ -98,10 +95,7 @@
                 {
                     "q" : [
                         "Match the following :",
-                        "<table><tr><td>(i)Dual system of Control</td><td>(I)1784</td></tr>",
-                        "<tr><td>(ii)Bicameralism</td><td>(II)1909</td></tr>",
-                        "<tr><td>(iii)Provincial autonomy</td><td>(III)1935</td></tr>",
-                        "<tr><td>(iv)Mortey-Minto Reforms</td><td>(IV)1919</td></tr></table>"
+                        "<table><tr><td>(i)Dual system of Control</td><td>(I)1784</td></tr><tr><td>(ii)Bicameralism</td><td>(II)1909</td></tr><tr><td>(iii)Provincial autonomy</td><td>(III)1935</td></tr><tr><td>(iv)Mortey-Minto Reforms</td><td>(IV)1919</td></tr></table>"
                     ],
                     "a" : "(i)->I, (ii)->IV, (iii)->III, (iv)->II",
                     "b" : "(i)->IV, (ii)->III, (iii)->I, (iv)->II",
@@ -123,10 +117,10 @@
                     "q" : [
                         "Which of the following isn't correctly matched?"
                     ],
-                    "a" : "<table><tr><td>Secretary of State for India</td><td>1858</td></tr>",
-                    "b" : "<tr><td>Federal Court</td><td>1937</td></tr>",
-                    "c" : "<tr><td>Council of India</td><td>1858</td></tr>",
-                    "d" : "<tr><td>High Commissioner for India</td><td>1909</td></tr>",
+                    "a" : "Secretary of State for India -> 1858",
+                    "b" : "Federal Court -> 1937",
+                    "c" : "Council of India -> 1858",
+                    "d" : "High Commissioner for India -> 1909",
                     "ra" : "d"
                 },
                 {
@@ -139,7 +133,6 @@
                     "d" : "High Court of Bombay",
                     "ra" : "b"
                 }
-                
 
                 
 
