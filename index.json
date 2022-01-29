@@ -60,17 +60,56 @@
                 {
                     "q" : [
                         "Match the following:",
-                        "(i)Act of Settlement&emsp(I)1793",
-                        "(ii)1st charter Act&emsp(II)1833",
-                        "(iii)St Helena Act&emsp(III)1909",
-                        "(iv)Last Councils Act&emsp(IV)1781"
+                        "(i)Act of Settlement   (I)1793",
+                        "(ii)1st charter Act    (II)1833",
+                        "(iii)St Helena Act     (III)1909",
+                        "(iv)Last Councils Act  (IV)1781"
                     ],
                     "a" : "(i)->(IV), (ii)->(II), (iii)->(I), (iv)->(III)",
                     "b" : "(i)->(I), (ii)->(II), (iii)->(IV), (iv)->(III)",
                     "c" : "(i)->(IV), (ii)->(I), (iii)->(II), (iv)->(III)",
                     "d" : "(i)->(II), (ii)->(I), (iii)->(IV), (iv)->(III)",
                     "ra" : "c"
+                },
+                {
+                    "q" : [
+                        "Which act led to the formation of 'Board of Control'?"
+                    ],
+                    "a" : "Pitt's India Act",
+                    "b" : "Charter Act, 1793",
+                    "c" : "St Helna Act",
+                    "d" : "Act of 1786",
+                    "ra" : "a"
+                },
+                {
+                    "q" : [
+                        "Which of the following statement(s) is true about the Pitt's India Act of 1784?",
+                        "(i)It separated the commercial and executive functions of the East India Company.",
+                        "(ii)It reduced the members of Gov-Gen-in-Council to 3.",
+                        "(iii)It provided special power to the Gov-Gen of Bengal to override the decision of his council in special cases.",
+                        "(iv)It was presented as FoxBill in the British parliament."
+                    ],
+                    "a" : "(i), (ii), (iv)",
+                    "b" : "(i), (ii)",
+                    "c" : "(i), (ii), (iii), (iv)",
+                    "d" : "(i), (iii), (iv)",
+                    "ra" : "a"
+                },
+                {
+                    "q" : [
+                        "Match the following :",
+                        "<table><tr><td>Dual system of Control</td><td>1784</td></tr></table>"
+                    ],
+                    "a" : "(i)->I, (ii)->IV, (iii)->III, (iv)->II",
+                    "b" : "(i)->IV, (ii)->III, (iii)->I, (iv)->II",
+                    "c" : "(i)->III, (ii)->I, (iii)->IV, (iv)->II",
+                    "d" : "(i)->I, (ii)->III, (iii)->II, (iv)->IV",
+                    "ra" : "a"
                 }
+
+
+                
+
 
             ]
 
