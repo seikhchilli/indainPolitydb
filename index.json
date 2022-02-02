@@ -169,12 +169,208 @@
                 {
                     "q":[
                         "Which of the following is correct about the Government of India Act, 1935?",
-                        "<ol type = 'i'><li>It introduced provincial autonomy.</li><li>Provision for adoption of dyarchy at the center.</li><li>introduced bicameralism in provinces.</li><li>provision for estabilishment of RBI and federal court.</li><li>provision for Federal PSC, provincial PSC & joint PSC</li></ol>"
+                        "(i)It introduced provincial autonomy.",
+                        "(ii)Provision for adoption of dyarchy at the center.",
+                        "(iii)introduced bicameralism in provinces.",
+                        "(iv)provision for estabilishment of RBI and federal court.",
+                        "(v)provision for Federal PSC, provincial PSC & joint PSC"
                     ],
                     "a" : "(i), (iv) incorrect",
                     "b" : "(ii), (iv), (v) incorrect",
                     "c" : "(v) only incorrect",
                     "d" : "None of them incorrect",
+                    "ra" : "d"
+                },
+                {
+                    "q":[
+                        "Arrange these in chronological order: ",
+                        "(i)Doctrine of Lapse",
+                        "(ii)Establishment of Council of India",
+                        "(iii)Creation of High Commissioner for India",
+                        "(iv)Quit India movement",
+                        "(v)Abolition of Council of India"
+                    ],
+                    "a" : "(i), (ii), (iii), (iv), (v)",
+                    "b" : "(i), (ii), (iii), (v), (iv)",
+                    "c" : "(ii), (i), (iii), (v), (iv)",
+                    "d" : "(ii), (iv), (iii), (i), (v)",
+                    "ra" : "b"
+                },
+                {
+                    "q":[
+                        "Consider the following statements: ",
+                        "(i)Lord Sydney was the 1st president of Board of Control.",
+                        "(ii)Lord Stanley was the last president of Board of Control.",
+                        "Which of the above is correct?"
+                    ],
+                    "a" : "(i) and (ii) both",
+                    "b" : "(i) only",
+                    "c" : "(ii) only",
+                    "d" : "None of them",
+                    "ra" : "a"
+                },
+                {
+                    "q":[
+                        "(i)Robert Clive was the 1st governor of Bengal to be commander-in-chief.",
+                        "(ii)Lord Cornwallis was the 1st governor-general of Bengal to be appointed as Commander-in-chief.",
+                        "Which of the above is correct?"
+                    ],
+                    "a" : "only (i)",
+                    "b" : "only (ii)",
+                    "c" : "None of them",
+                    "d" : "Both (i) and (ii)",
+                    "ra" : "d"
+                },
+                {
+                    "q":[
+                        "(i)The GOI act, 1919 represented the end of 'benevolent despotism' and began the genesis of responsible government in India.",
+                        "(ii)Simon Commission was a statutory commission set to review the GOI act, 1919 in 10 years.",
+                        "Which of the above is true?"
+                    ],
+                    "a" : "Only (i)",
+                    "b" : "Only (ii)",
+                    "c" : "Both (i) and (ii)",
+                    "d" : "None of them",
+                    "ra" : "c"
+                },
+                {
+                    "q":[
+                        "Consider the following statements:",
+                        "(i)The first public service commission in India was set up in the year 1926, on the recommendation of Lee Commission on Superior Civil Services in India.",
+                        "(ii)The Government of India Act, 1935, provided for setting up of Public Service Commissions at both federal and provincial levels.",
+                        "Which of the statement given above is/are correct?"
+                    ],
+                    "a" : "Only (i)",
+                    "b" : "Only (ii)",
+                    "c" : "Both (i) & (ii)",
+                    "d" : "None of them",
+                    "ra" : "c"
+                },
+                {
+                    "q":[
+                        "Partially responsible governments in provinces were established under which one of the following acts?"
+                    ],
+                    "a" : "GOI act, 1919",
+                    "b" : "GOI act, 1935",
+                    "c" : "Indian Councils Act, 1909",
+                    "d" : "Indian Councils Act, 1892",
+                    "ra" : "a"
+                },
+                {
+                    "q":[
+                        "The initial idea of recruitment during British rule on merit principle can be traced to the:"
+                    ],
+                    "a" : "Lee Commission",
+                    "b" : "Macanlay Committee",
+                    "c" : "Islington Commission",
+                    "d" : "Maxwell Committee",
+                    "ra" : "b"
+                },
+                {
+                    "q":[
+                        "In the federation established by the Act of 1935, residuary powers were given to the: "
+                    ],
+                    "a" : "Federal Legislature",
+                    "b" : "Provincial Legislature",
+                    "c" : "Viceroy",
+                    "d" : "Provincial Governor",
+                    "ra" : "c"
+                },
+                {
+                    "q":[
+                        "The Government of India Act, 1919 was based upon: "
+                    ],
+                    "a" : "Morley Minto Reforms",
+                    "b" : "Montague Chelmsford Reforms",
+                    "c" : "Ramsay McDonald Award",
+                    "d" : "Nehru Report",
+                    "ra" : "b"
+                },
+                {
+                    "q":[
+                        "What is known as June 3rd plan?"
+                    ],
+                    "a" : "Wavell Plan",
+                    "b" : "Cripps Mission",
+                    "c" : "Mountbatten Plan",
+                    "d" : "Communal Award",
+                    "ra" : "c"
+                },
+                {
+                    "q":[
+                        "Indian Independence Bill : Clement Atlee :: Fox Bill : ?"
+                    ],
+                    "a" : "Winston Churchill",
+                    "b" : "William Pitt",
+                    "c" : "Lord Dalhousie",
+                    "d" : "Boris Johnson",
+                    "ra" : "b"
+                },
+                {
+                    "q":[
+                        "Which one of the following Acts laid the foundation of British administration in India?"
+                    ],
+                    "a" : "Regulating Act, 1773",
+                    "b" : "Pitts' India Act",
+                    "c" : "Indian Councils Act, 1892",
+                    "d" : "Government of India Act, 1858",
+                    "ra" : "a"
+                },
+                {
+                    "q":[
+                        "Match list I with list II and select the correct answer: ",
+                        "<table><tr><td>A. Designation of Gov.Gen. of Bengal as Gov.Gen, of India and his government as government of India</td><td>(I)Charter Act, 1833</td></tr><tr><td>B. Dyarchy introduced in Indian government</td><td>(II)Government of India Act, 1858</td></tr><tr><td>C. Twin features of All India Federation and provincial autonomy</td><td>(III)Government of India Act, 1919</td></tr><tr><td>D. Control of gov. of India transferred from the EIC to the British Crown</td><td>(IV)Government of India Act, 1935</td></tr></table>"
+                    ],
+                    "a" : "A->I, B->IV, C->III, D->II",
+                    "b" : "A->I, B->III, C->IV, D->II",
+                    "c" : "A->II, B->IV, c->III, D->I",
+                    "d" : "A->I, B->II, c->III, D->IV",
+                    "ra" : "b"
+                },
+                {
+                    "q":[
+                        "With reference to the British Rule in India, India statutory commission is popularly known as:"
+                    ],
+                    "a" : "Cabinet Mission",
+                    "b" : "Hunter Commission",
+                    "c" : "Buttler Commission",
+                    "d" : "Simon Commission",
+                    "ra" : "d"
+                },
+                {
+                    "q":[
+                        "(i)The members of the interim Government(1946) were members of the Viceroy's executive council.",
+                        "(ii)The viceroy continued to be the head of the Council.",
+                        "(iii)Dr. Rajendra Prasad was designated as the vice-president of the Council.",
+                        "Which of the above statement(s) is/are correct?"
+                    ],
+                    "a" : "(i) and (ii)",
+                    "b" : "Only (ii)",
+                    "c" : "(ii) and (iii)",
+                    "d" : "(i), (ii) and (iii)",
+                    "ra" : "a"
+                },
+                {
+                    "q":[
+                        "Which of the following is correctly matched regarding the first cabinet of free India?"
+                    ],
+                    "a" : "Raj Kumari Amrit Kaur --> Health",
+                    "b" : "Jagjivan Ram --> Labour",
+                    "c" : "Dr John Mathai --> Railways and Transport",
+                    "d" : "Liyaqat Ali Khan --> Finance",
+                    "ra" : "d"
+                },
+                {
+                    "q":[
+                        "In the relation to various developments during the British rule, arrange the following events in the chronological order: ",
+                        "(i)Indian Council Act of 1861",
+                        "(ii)Act of good government for India",
+                        "(iii)Act of Settlement"
+                    ],
+                    "a" : "(ii) -> (iii) -> (i)",
+                    "b" : "(i) -> (iii) -> (ii)",
+                    "c" : "(iii) -> (i) -> (ii)",
+                    "d" : "(iii) -> (ii) -> (i)",
                     "ra" : "d"
                 }
 
