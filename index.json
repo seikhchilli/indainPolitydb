@@ -132,6 +132,50 @@
                     "c" : "High Court of Madras",
                     "d" : "High Court of Bombay",
                     "ra" : "b"
+                },
+                {
+                    "q" : [
+                        "Match the following: ",
+                        "<table><tr><td>(i)Portfolio System</td><td>(I)Lord Dalhousie</td></tr><tr><td>(ii)Communal electorate</td><td>(II)Lord William Bentick</td></tr><tr><td>(iii)Abolition of Sati</td><td>(III)Lord Minto(II)</td></tr><tr><td>(iv)Doctrine of Lapse</td><td>(IV)Lord Canning</td></tr>"
+                    ],
+                    "a" : "(i)->IV, (ii)->I, (iii)->II, (iv)->III",
+                    "b" : "(i)->IV, (ii)->III, (iii)->II, (iv)->I",
+                    "c" : "(i)->I, (ii)->III, (iii)->II, (iv)->IV",
+                    "d" : "(i)->I, (ii)->II, (iii)->III, (iv)->IV",
+                    "ra" : "b"
+                },
+                {
+                    "q":[
+                        "Satyendra Prasanna Sinha joined the Viceroy's executive council as:"
+                    ],
+                    "a" : "Revenue member",
+                    "b" : "Home member",
+                    "c" : "Finance member",
+                    "d" : "Law member",
+                    "ra" : "b"
+                },
+                {
+                    "q":[
+                        "(i)GOI act, 1919 introduced dyarchy at provincial level.",
+                        "(ii)It also introduced bicameralism.",
+                        "Which of the the statements is true?"
+                    ],
+                    "a" : "(i) & (ii) both",
+                    "b" : "only (i)",
+                    "c" : "only (ii)",
+                    "d" : "None of them",
+                    "ra" : "a"
+                },
+                {
+                    "q":[
+                        "Which of the following is correct about the Government of India Act, 1935?",
+                        "<ol type = 'i'><li>It introduced provincial autonomy.</li><li>Provision for adoption of dyarchy at the center.</li><li>introduced bicameralism in provinces.</li><li>provision for estabilishment of RBI and federal court.</li><li>provision for Federal PSC, provincial PSC & joint PSC</li></ol>"
+                    ],
+                    "a" : "(i), (iv) incorrect",
+                    "b" : "(ii), (iv), (v) incorrect",
+                    "c" : "(v) only incorrect",
+                    "d" : "None of them incorrect",
+                    "ra" : "d"
                 }
 
                 
