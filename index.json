@@ -384,7 +384,209 @@
 
         },
         {
-            "name" : "Making of the Constitution"
+            "name" : "Making of the Constitution",
+            "questions" : [
+                {
+                    "q" : [
+                        "The idea of Constituent Assembly for India was put forward for the first time by -"
+                    ],
+                    "a" : "M.N.Roy",
+                    "b" : "J.L.Nehru",
+                    "c" : "M.K.Gandhi",
+                    "d" : "Dr. B.R.Ambedkar",
+                    "ra" : "a"
+                },
+                {
+                    "q" : [
+                        "The INC demand for a Constituent Assembly to frame the Constituent of India was finally accepted in principle by the British Government in ________."
+                    ],
+                    "a" : "August Offer, 1940",
+                    "b" : "Wavell Plan, 1945",
+                    "c" : "Cripps Mission, 1942",
+                    "d" : "Cabinet Mission Plan, 1946",
+                    "ra" : "a"
+                },
+                {
+                    "q" : [
+                        "_________ wanted India to be divided into two autonomous states with two separate Constituent Assemblies."
+                    ],
+                    "a" : "Indian Union Muslim League",
+                    "b" : "Pakistan Muslim League",
+                    "c" : "All India Muslim League",
+                    "d" : "Pakistan Tehreek-e-Insaaf",
+                    "ra" : "c"
+                },
+                {
+                    "q" : [
+                        "The Constiuent Assembly was constituted under the scheme formulated by the ___________ ."
+                    ],
+                    "a" : "Mountbatten Plan",
+                    "b" : "Cripps Mission Plan",
+                    "c" : "Cabinet Mission Plan",
+                    "d" : "Independence Act",
+                    "ra" : "c"
+                },
+                {
+                    "q" : [
+                        "Consider the following statements regarding the composition of the Constituent Assembly -",
+                        "(i)The representatives were to be elected from the four constituents - Hindu, Muslim, Sikh and Christian.",
+                        "(ii)The chairman of the Union Constitution Committee was Sardar Vallabh Bhai Patel.",
+                        "(iii)The total strength of the Constituent Assembly was 389.",
+                        "(iv)The Drafting Committee under the chairmanship of Dr. B.R.Ambedkar consisted of 8 members.",
+                        "Which of these is/are correct?"
+                    ],
+                    "a" : "(i), (ii), (iii), (iv)",
+                    "b" : "(i), (ii), (iv)",
+                    "c" : "(iii) Only",
+                    "d" : "(i) Only",
+                    "ra" : "c"
+                },
+                {
+                    "q" : [
+                        "Consider the following statements -",
+                        "(i)The Constituent Assembly held its first meeting on Dec 9th, 1946.",
+                        "(ii)Dr. Sachchidananda Sinha was elected as the provisional president of the Constituent Assembly.",
+                        "(iii)H.C.Mukherjee was elected as the vice-president of the Constituent Assembly.",
+                        "Which of the above statement(s) given above is/are correct?"
+                    ],
+                    "a" : "(i), (ii) & (iii)",
+                    "b" : "(i), (iii)",
+                    "c" : "(ii), (iii)",
+                    "d" : "None of them",
+                    "ra" : "a"
+                },
+                {
+                    "q" : [
+                        "Consider the following statements regarding the 'objectives resolution'",
+                        "(i)It was moved on 9th Dec, 1946 in the Assembly by Dr. Rajendra Prasad.",
+                        "(ii)It was adopted by the Assembly on 22nd Jan, 1947.",
+                        "Its modified version formed the preamble of the present Constitution of India.",
+                        "Which of the above statement(s) is/are correct?"
+                    ],
+                    "a" : "None of them",
+                    "b" : "Only (ii)",
+                    "c" : "Only (iii)",
+                    "d" : "Only (i)",
+                    "ra" : "d"
+                },
+                {
+                    "q" : [
+                        "Consider the following statements -",
+                        "(i)The Consituent Assembly was made a sovereign body.",
+                        "(ii)The Assembly became the Dominion Legislature of India.",
+                        "(iii)The total strength of the Constituent Assembly came down to 299.",
+                        "Which of the above changes regarding the Constituent Assembly was made by the Independence Act of 1947?"
+                    ],
+                    "a" : "(i) & (ii)",
+                    "b" : "Only (i)",
+                    "c" : "(i), (ii), (iii)",
+                    "d" : "None of them",
+                    "ra" : "c"
+                },
+                {
+                    "q" : [
+                        "Which of the following events happened on different date than the other options given -"
+                    ],
+                    "a" : "Adoption of National Flag",
+                    "b" : "Adoption of National Anthem",
+                    "c" : "Adoption of National Song",
+                    "d" : "Dr. Rajendra Prasad was elected as the 1st president of India.",
+                    "ra" : "c"
+                },
+                {
+                    "q" : [
+                        "Match the following -",
+                        "<table><tr><th>Committee</th><th>Chairman</th></tr><tr><td>(i)Drafting Committee</td><td>(I)Dr. B.R.Ambedkar</td></tr><tr><td>(i)Rules of procedure Committee</td><td>(II)G.V.Mavalankar</td></tr><tr><td>(iii)Special Committee to examine the draft constitution</td><td>(III)Sardar Patel</td></tr><tr><td>(iv)Functions of Constituent Assembly</td><td>(IV)Dr. Rajendra Prasad</td></tr><tr><td></td><td>(V)J L Nehru</td></tr></table>"
+                     ],
+                    "a" : "(i)->II, (ii)->III, (iii)->II, (iv)->V",
+                    "b" : "(i)->I, (ii)->IV, (iii)->II, (iv)->III",
+                    "c" : "(i)->I, (ii)->IV, (iii)->II, (iv)->V",
+                    "d" : "(i)->I, (ii)->IV, (iii)->V, (iv)->(II)",
+                    "ra" : "d"
+                },
+                {
+                    "q" : [
+                        "Consider the following regarding the Drafting Committee -",
+                        "(i)It consisted of 7 members with Dr. B.R.Ambedkar as its chairman.",
+                        "(ii)It took less than 6 months to prepare its draft having sat for only 141 days in total.",
+                        "Which of the above is true?"
+                    ],
+                    "a" : "Both (i) & (ii)",
+                    "b" : "Only (i)",
+                    "c" : "Only (ii)",
+                    "d" : "None of them",
+                    "ra" : "a"
+                },
+                {
+                    "q" : [
+                        "(i)The Constituent Assembly had a total of 3 readings.",
+                        "(ii)During the 3rd reading, Dr. B.R.Ambedkar moved a motion - 'The Constitution as settled by the Assembly be passed.'",
+                        "(iii)The Consitution as adopted on 26th Nov, 1949 contained a preamble, 395 articles and 8 schedules.",
+                        "(iv)The preamble was enacted before the entire Constitution.",
+                        "Which of the following is true regarding the above?"
+                    ],
+                    "a" : "(ii) & (iv) incorrect",
+                    "b" : "Only (iii) correct",
+                    "c" : "(iv) incorrect",
+                    "d" : "All of them correct",
+                    "ra" : "c"
+                },
+                {
+                    "q" : [
+                        "Match the following -",
+                        "<table><tr><td>(i)Father of Constitution of India</td>(I)William Bentick<td></td></tr><tr><td>(ii)Father of Communal Electorate in India</td><td>(II)Linonel Curtis</td></tr><td>(iii)Father of Dyarchy in India</td><td>(III)B.R.Ambedkar</td><tr><td>(iv)Father of modern western Education in India</td><td>(IV)Minto II</td></tr><tr></tr></table>"
+                    ],
+                    "a" : "(i)->III, (ii)->II, (iii)->I, (iv)->IV",
+                    "b" : "(i)->III, (ii)->IV, (iii)->II, (iv)->I",
+                    "c" : "(i)->III, (ii)->II, (iii)->IV, (iv)->I",
+                    "d" : "(i)->III, (ii)->I, (iii)->II, (iv)->IV",
+                    "ra" : "d"
+                },
+                {
+                    "q" : [
+                        "Which of the following provision(s) from the Constitution of India was/were given immediate effect from 26th Nov, 1949?",
+                        "(i)Citizenship",
+                        "(ii)Emergency Provisions",
+                        "(iii)Elections",
+                        "(iv)Federal System"
+                    ],
+                    "a" : "(ii) & (iii)",
+                    "b" : "(i) & (iii)",
+                    "c" : "(i) & (iv)",
+                    "d" : "Only (i)",
+                    "ra" : "b"
+                },
+                {
+                    "q" : [
+                        "The Constitution of India as framed by the Constituent Assembly was finally adopted and enacted on -"
+                    ],
+                    "a" : "15th Aug, 1947",
+                    "b" : "30th Jan, 1948",
+                    "c" : "26th Nov, 1949",
+                    "d" : "26th Jan, 1950",
+                    "ra" : "c"
+                },
+                {
+                    "q" : [
+                        "Which was adopted as the symbol/seal of the Constituent Assembly?"
+                    ],
+                    "a" : "Lion",
+                    "b" : "Tiger",
+                    "c" : "Peacock",
+                    "d" : "Elephant",
+                    "ra" : "d"
+                },
+                {
+                    "q" : [
+                        "Which of the following is incorrectly matched?"
+                    ],
+                    "a" : "BN Rau -> Legal Advisor to the Constituent Assembly",
+                    "b" : "SN Mukherjee -> Chief draftsman of the Constituent Assembly",
+                    "c" : "HVR Iyengar -> Calligrapher of Hindi Version of the Constitution",
+                    "d" : "Prem Bihari Narain Raizada -> Calligrapher of English version of the Constitution",
+                    "ra" : "c"
+                }
+            ]
         },
         {
             "name" : "Salient features of the Indian Constitution"
